@@ -18,15 +18,18 @@
 }
 
 .Bl1_Box1 {
-    font-weight: 800;
-    
+    font-weight: 700;
     color: #ffffff;
     text-align: center;
-    margin-top: 10em;
-    max-width:42em ;
+    margin-top: 8em;
+    max-width: 35em;
     max-height: 10em;
     margin-left: auto;
     margin-right: auto;
-    
-   
+
 }
+
+.Bl1_Box1 h1{
+    font-size: 4em;
+}
+
