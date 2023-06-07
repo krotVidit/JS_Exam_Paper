@@ -1,0 +1,19 @@
+
+.NavBar{
+    background-image: url(../resources/fons.png);
+    max-width: 111em;
+}
+
+
+.NavText a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    color: #ffffff;
+}
+
+.navLogo img {
+    max-width: 11.6em;
+    max-height: 3.5em;
+}
