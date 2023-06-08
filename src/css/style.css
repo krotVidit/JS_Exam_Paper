@@ -1,14 +1,19 @@
+.Page{
+    max-width: 111em;
+    padding: 0;
+}
+
+
 .NavBar {
     background-image: url(../resources/fons.png);
-    max-width: 111em;
     height: 57.9em;
 }
 
-.NavText{
+.NavText {
     margin-left: 2em;
     padding: 2em;
-   
-   
+
+
 }
 
 
@@ -77,4 +82,10 @@
     margin-left: 38em;
     padding: 0.5em 2em;
     border-radius: 2em;
+}
+
+.Block2 {
+    margin-top: 2em;
+    background-image: url(../resources/fons2.png);
+    
 }
