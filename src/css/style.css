@@ -1,4 +1,4 @@
-.Page{
+.Page {
     max-width: 111em;
     padding: 0;
 }
@@ -86,6 +86,22 @@
 
 .Block2 {
     margin-top: 2em;
-    background-image: url(../resources/fons2.png);
-    
+    background-color: #252B42;
+}
+
+.Bl2_b1_title {
+    font-size: 3em;
+    font-weight: 400;
+    color: #ffffff;
+    padding-top: 2em;
+    text-align: center;
+}
+
+.Bl2_b1_text {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.8em;
 }
